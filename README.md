@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Code Transpiler and Bundler
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This is a small application that simplifies the process of transpiling, bundling, and importing your code into the browser. It's built using React.js, Typescript, and ESBuild for fast and efficient code processing.
 
 ### `npm start`
 
